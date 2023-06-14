@@ -1,4 +1,6 @@
 # ML RECOMMENDER FOR "I DO EAT" APP BANGKIT CAPSTONE PROJECT 2023
+![LOGO IDOEAT](https://drive.google.com/uc?export=view&id=1DYFfsy8oyIwLu7Q9Ztt-X11UhZcCg67a)
+
 ### ML Maker & Cohort Bangkit 2023 : HERMAN YOSEP ADITYA W (M169DSX0462)
 https://www.linkedin.com/in/herman-yosep-aditya-widihartantyo-825b3b1bb/
 
